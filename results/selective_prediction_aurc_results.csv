@@ -1,0 +1,21 @@
+Noise,Method,AURC
+0.0,Baseline CNN,0.13714462081128748
+0.0,Ensemble Confidence,0.10765211640211639
+0.0,Ensemble Entropy,0.11346437389770724
+0.0,Ensemble Mutual Information,0.15405978835978837
+0.05,Baseline CNN,0.17986807760141094
+0.05,Ensemble Confidence,0.14299860670194003
+0.05,Ensemble Entropy,0.15031878306878305
+0.05,Ensemble Mutual Information,0.20242257495590832
+0.1,Baseline CNN,0.37523426807760135
+0.1,Ensemble Confidence,0.2878397001763668
+0.1,Ensemble Entropy,0.2878674074074074
+0.1,Ensemble Mutual Information,0.34975015873015874
+0.2,Baseline CNN,0.6728908818342152
+0.2,Ensemble Confidence,0.5755370194003527
+0.2,Ensemble Entropy,0.5626154850088183
+0.2,Ensemble Mutual Information,0.5996752557319224
+0.3,Baseline CNN,0.7527073544973545
+0.3,Ensemble Confidence,0.6881841798941798
+0.3,Ensemble Entropy,0.6738494885361551
+0.3,Ensemble Mutual Information,0.7042737742504409
